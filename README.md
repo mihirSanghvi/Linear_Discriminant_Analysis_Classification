@@ -1,6 +1,6 @@
 ﻿# Linear Discriminant Analysis Classification
 
-In this project, I have implemented LDA First time in R. I have taken reference from the following book to learn and implement LDA based classifier. 
+In this project, I have implemented LDA first time in R. I have taken reference from the following book to learn and implement LDA based classifier. 
 
 ## Datasource 
 

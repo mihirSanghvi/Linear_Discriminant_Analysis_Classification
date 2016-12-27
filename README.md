@@ -12,4 +12,4 @@ In this project, I have implemented LDA first time in R. I have taken reference 
 
 ## Additional Reference 
 
-*[Implement LDA from scrach in Python](https://sebastianraschka.com/Articles/2014_python_lda.html#histograms-and-feature-selection)
+* [Implement LDA from scrach in Python](https://sebastianraschka.com/Articles/2014_python_lda.html#histograms-and-feature-selection)
